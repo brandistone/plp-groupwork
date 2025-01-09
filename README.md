@@ -152,12 +152,6 @@ Stores booking information including ticket and seat details.
     SELECT * FROM booking;
     ```
 
-### Testing the System
-
-Once the database is set up and populated, you can test the system by making new bookings, querying train journeys, or checking the availability of seats for specific stations and dates.
-
----
-
 ## Contributing
 
 Feel free to fork this repository, make changes, and submit a pull request. Ensure that you follow the appropriate coding style and add test cases for new features.
